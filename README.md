@@ -11,4 +11,6 @@ The main objectives copared to VHDL are:
    - shirt registers
    - RAM 
    - streams
+ 
+ Constructs that can be efficiently synthesized shall be more conventient to write than aspects that are hard to synthesize.
 

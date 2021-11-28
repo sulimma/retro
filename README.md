@@ -8,7 +8,7 @@ The main objectives copared to VHDL are:
  - make the following aspects more convenient than they are in VHDL
    - fixed point arithmetics
    - FSM
-   - shirt registers
+   - shift registers
    - RAM 
    - streams
  
